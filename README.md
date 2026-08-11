@@ -1,16 +1,25 @@
-## Hi there 👋
+# Hi, I'm Ayush Raj 👋
 
-<!--
-**ayush-iitg/ayush-iitg** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 4th Year B.Tech @ IIT Guwahati  
+📊 Aspiring Data Scientist | ML Engineer
 
-Here are some ideas to get you started:
+I'm interested in Machine Learning, Data Science, and building
+practical ML-powered applications.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🛠️ Tech Stack
+
+**Languages:** Python, C++, SQL, JavaScript  
+**ML/DS:** Pandas, NumPy, Scikit-learn, PyTorch  
+**Backend:** FastAPI, Flask, Node.js  
+**Tools:** Git, Docker, Streamlit
+
+### 🚀 Projects
+
+- 🔎 **MediQuery** — RAG-based Medical Q&A System
+- 🎵 **Hybrid Recommendation System**
+- ☕ **Customer Segmentation**
+- 💻 **DevConnect** — Developer Networking Platform
+
+### 📫 Connect
+
+[LinkedIn](YOUR_LINKEDIN_URL) 
