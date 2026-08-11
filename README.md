@@ -1,25 +1,9 @@
-# Hi, I'm Ayush Raj 👋
+Hi, I'm Ayush Raj . Welcome to my GitHub Page.I'm an Electronics Engineering graduate from IIT BHU Varanasi (ECE'24) . I am fascinated by technology and data, and love to work on innovative ideas. My work on vast variety of projects is availaible in my repositories.
 
-🎓 4th Year B.Tech @ IIT Guwahati  
-📊 Aspiring Data Scientist | ML Engineer
+👀 I’m interested in ...
+I'm intrested and skilled in
 
-I'm interested in Machine Learning, Data Science, and building
-practical ML-powered applications.
 
-### 🛠️ Tech Stack
-
-**Languages:** Python, C++, SQL, JavaScript  
-**ML/DS:** Pandas, NumPy, Scikit-learn, PyTorch  
-**Backend:** FastAPI, Flask, Node.js  
-**Tools:** Git, Docker, Streamlit
-
-### 🚀 Projects
-
-- 🔎 **MediQuery** — RAG-based Medical Q&A System
-- 🎵 **Hybrid Recommendation System**
-- ☕ **Customer Segmentation**
-- 💻 **DevConnect** — Developer Networking Platform
-
-### 📫 Connect
-
-[LinkedIn](YOUR_LINKEDIN_URL) 
+- Machine Learning (particularly Data Science, Deep Learning, and GenAI)
+- Software Development
+- Data Structures & Algorithms (DSA)
